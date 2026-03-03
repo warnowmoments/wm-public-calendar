@@ -14,21 +14,5 @@
     "end_time": "2026-04-18T15:00:00+00:00",
     "status": "confirmed",
     "title": "Gebucht"
-  },
-  {
-    "id": "e47406e9-a014-4d76-aa75-9abb927300fe",
-    "booking_id": "79100cb2-06b4-48d9-a183-96e9dfdb8ee4",
-    "start_time": "2026-03-29T07:00:00+00:00",
-    "end_time": "2026-03-29T15:00:00+00:00",
-    "status": "confirmed",
-    "title": "Gebucht"
-  },
-  {
-    "id": "2dd5648e-5a6f-4307-b5bc-fc1b8a0a0d12",
-    "booking_id": "058545c1-c917-4ec8-a798-08ad9c7931b9",
-    "start_time": "2026-04-18T09:00:00+00:00",
-    "end_time": "2026-04-18T15:00:00+00:00",
-    "status": "confirmed",
-    "title": "Gebucht"
   }
 ]
